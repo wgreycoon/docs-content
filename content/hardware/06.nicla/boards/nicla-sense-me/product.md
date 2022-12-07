@@ -1,7 +1,6 @@
 ---
 title: Nicla Sense ME
 url_shop: https://store.arduino.cc/products/nicla-sense-me
-url_guide: /software/ide-v1/installing-mbed-os-nicla-boards
 core: arduino:mbed_nicla
 certifications: [CE, FCC, UKCA, WEEE, RoHS]
 productCode: '043'

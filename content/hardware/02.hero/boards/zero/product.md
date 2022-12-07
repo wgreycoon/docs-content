@@ -1,7 +1,6 @@
 ---
 title: Zero
 url_shop: https://store.arduino.cc/arduino-zero
-url_guide: /software/ide-v1/installing-samd21-core
 core: arduino:samd
 forumCategorySlug: '/hardware/arduino-zero/74'
 productCode: '016'

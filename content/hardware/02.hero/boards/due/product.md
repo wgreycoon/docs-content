@@ -1,7 +1,6 @@
 ---
 title: Due
 url_shop: https://store.arduino.cc/arduino-due
-url_guide: /software/ide-v1/installing-sam-core
 core: arduino:sam
 forumCategorySlug: '/hardware/arduino-due/64'
 productCode: '009'
