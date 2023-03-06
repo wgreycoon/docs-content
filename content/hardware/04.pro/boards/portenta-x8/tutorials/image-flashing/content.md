@@ -109,4 +109,7 @@ Now you can start using your Portenta X8 with the latest updates.
 ## Troubleshooting
 
 - If you get an error while it is flashing, make sure your USB is correctly plugged in. Re-plug your board and try to flash it again. You may need few trials before the flashing is successful.
-- If you get an error related to permissions, try to launch the `uuu` command as Super User (`sudo`). 
+- If you get an error related to permissions, try to launch the `uuu` command as Super User (`sudo`).  For example, on macOS:
+```
+sudo ./uuu_mac uuu
+```
